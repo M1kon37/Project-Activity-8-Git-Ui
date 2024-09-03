@@ -8,6 +8,7 @@ namespace Project_Activity_8_Git_Ui
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private int num1;
 
         public Game1()
         {
